@@ -22,6 +22,6 @@ function decrement(n) {
   return(n - 1)
 }
 
-function makeInt() {
-  return
+function makeInt(n) {
+  return(a)
 }
